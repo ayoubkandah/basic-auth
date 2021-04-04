@@ -21,11 +21,14 @@ res data from db
 
 *URL's
 
-Heroku 
+[Heroku](https://ayoub-basic-auth.herokuapp.com/signup) 
 
 [Action](https://github.com/ayoubkandah/data-structures-and-algorithms/actions)
 
+[pull request](https://github.com/ayoubkandah/basic-auth/pull/1)
 
+Visual Code
+get UserName&Pass (signup)  ---> Store in DB by hash (signup)  ---> search inside DB for Username or Pass if exist (signin)-->return data or Invalid
 
 wml
 ![aaa](./asset/lab06.png)
